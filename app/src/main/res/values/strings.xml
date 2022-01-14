@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="text">
+        Long text Long text Long text Long text Long text Long text
+        Long text Long text Long text Long text Long text Long text
+        Long text Long text Long text Long text Long text Long text
+    </string>
+    <string name="seconds">Seconds elapsed: %d</string>
+</resources>
